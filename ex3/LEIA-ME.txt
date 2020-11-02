@@ -1,0 +1,9 @@
+1- EXECUTE O server.py
+
+2- Execute o client.py
+
+	1- Insira o nome do produto
+
+	2- Quantidade
+
+3- Aguarde a resposta do servidor

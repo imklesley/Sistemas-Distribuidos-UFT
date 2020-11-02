@@ -1,0 +1,13 @@
+1- Insira as urls desejadas no arquivo "lista_urls". Em cada linha deve conter uma url.
+
+2- Insira as palavras desejadas no arquivo "lista_palavras". Em cada linha deve conter uma url.
+
+3- Execute o "webcrawler.py"
+
+	1-Insira a quantidade de urls que deseja realizar o scrapping
+	
+	2-Insira a quantidade de threads que deseja utilizar nessa execução
+
+	3 - Aguarde a execução finalizar
+
+4-Obseve os resultados no arquivo "resultados.json". Para cada url foi criado um dicionário com as palavras e a sua frequência.

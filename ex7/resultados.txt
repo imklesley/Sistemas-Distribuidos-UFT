@@ -1,0 +1,8 @@
+https://ww2.uft.edu.br//>>(tecnologia,1);(2020,235);(pandemia,2);(Brasil,4);(Tocantins,10);(Palmas,24);(Esse,1);(Curso,39);
+https://g1.globo.com/>>(tecnologia,18);(2020,521);(pandemia,23);(corona,84);(virus,54);(Brasil,13);(Tocantins,5);(Palmas,1);(Logo,2);(Pra,1);
+https://www.globo.com/>>(tecnologia,6);(2020,505);(pandemia,12);(corona,8);(virus,8);(Brasil,46);(Tocantins,2);(Filme,2);
+https://www.primevideo.com/>>(2020,5);(Brasil,6);
+https://www.youtube.com/watch?v=VZR47i_8C0I>>(2020,30);(Brasil,1);(Logo,1);
+https://www.caelum.com.br/>>(tecnologia,5);(Brasil,1);(Curso,9);
+https://www.instagram.com/imklesley>>(Klesley,26);(Tocantins,5);(Palmas,1);
+https://www.netflix.com/browse>>(2020,12);(Brasil,2);(Logo,6);

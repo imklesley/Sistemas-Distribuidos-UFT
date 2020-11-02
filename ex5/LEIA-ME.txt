@@ -1,0 +1,7 @@
+1- EXECUTE O server.py
+
+2- Execute o client.py
+
+	1- Insira o valor em segundos que deseja receber as atualizações de tempo do servidor
+
+	2- Aguarde o feedback do server

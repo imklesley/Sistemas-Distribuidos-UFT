@@ -1,0 +1,12 @@
+1- EXECUTE O "server.py" que está dentro da pasta "remote"
+
+2- Execute o "client.py" que está dentro da pasta "local"
+
+	1- Insira a função desejada (1-enviar,2-receber)
+
+	2- Informe o nome do arquivo com extensão(nome.txt) que deseja enviar.
+	   Na pasta "files" tanto de "remote" quanto "local" existem arquivos de exemplo)
+
+3- Verifique na pasta "received" se o arquivo foi enviado.
+	* Se a função desejada foi 1-enviar, logo o arquivo está em /remote/received/
+	* Se a função desejada foi 2-receber, logo o arquivo está em /local/received/
